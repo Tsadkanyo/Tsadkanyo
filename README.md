@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tsadkan
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on Robotics and ML projects
 - 📫 How to reach me tsadkanyohannes9@gmail.com
 
 <!---
